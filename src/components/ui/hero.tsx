@@ -91,7 +91,7 @@ export default function HeroCarousel() {
 
         <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
           <Link
-            href="/orcamento"
+            href="https://wa.me/5512987060180?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
             className="group inline-flex items-center rounded-2xl border border-white/15 bg-white/90 px-5 py-3 text-sm font-semibold text-neutral-900 shadow-lg shadow-black/10 transition hover:bg-white"
           >
             Solicitar orçamento
